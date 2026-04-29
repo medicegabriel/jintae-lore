@@ -27,10 +27,10 @@ const CHAPTERS = [
     hanja: '誕',
     korean: '탄생',
     title: 'A Origem',
-    sub: 'Nascido da violência. Criado na ausência.',
+    sub: 'Nascido da violência.',
     body: [
-      'Filho de uma imigrante coreana e de um feiticeiro influente que sequer soube de seu nascimento. A mãe retornou para a Coreia ainda grávida, com medo do que aquele homem poderia fazer.',
-      'Cresceu no interior da Coreia do Sul, sem nunca saber do ocorrido. Praticava Kumdo desde a infância — a disciplina da espada foi a única constante que sua mãe podia oferecer com orgulho. Ela nunca contava nada sobre o pai. Nada.',
+      'Jintae é filho de uma imigrante coreana nos EUA. Nasceu de um abuso sofrido por sua mãe, cometido por um feiticeiro extremamente conhecido por sua força e participação política. O pai, no entanto, nunca teve a oportunidade de descobrir sobre o nascimento de Jintae, já que sua mãe retornou para a Coreia ainda grávida, com medo do que aquele homem poderia fazer.',
+      'Jintae cresceu no interior da Coreia do Sul, sem nunca saber do ocorrido. Praticava Kumdo, a versão coreana do Kendo, desde a infância, e a disciplina da espada foi a única constante que sua mãe podia oferecer com orgulho. Ela nunca contava qualquer informação sobre o pai, não importando o quanto ele perguntasse.',
     ],
   },
   {
@@ -38,10 +38,10 @@ const CHAPTERS = [
     hanja: '覺',
     korean: '각성',
     title: 'O Despertar',
-    sub: 'A porta se abre. O mundo muda de forma.',
+    sub: 'O mundo muda de forma.',
     body: [
-      'No dia em que Jintae despertou como feiticeiro — uma semana depois — aquele homem chegou voando à frente da porta. Começou a agir como se fosse um pai que havia deixado a casa para um trabalho muito distante.',
-      'Jintae, sem saber de nada, só acreditou. Ficou alegre que finalmente poderia conhecer o pai, sem perceber o choque no rosto da mãe logo atrás.',
+      'Até que, no dia em que Jintae despertou como feiticeiro, uma semana depois, aquele homem chegou voando à frente da porta. Começou a agir como se fosse um pai que havia deixado a casa para um trabalho muito distante. Jintae, sem saber de nada, só acreditou. Ficou alegre que finalmente poderia conhecer o pai, sem perceber o choque no rosto da mãe logo atrás.',
+      'Foi levado para os EUA pouco depois, e começou a viver com o pai. A mãe não conseguiu recorrer pela guarda na justiça. Aquele homem era influente o bastante para que uma simples mortal não pudesse fazer nada, independente do quanto tentasse.',
     ],
   },
   {
@@ -49,11 +49,12 @@ const CHAPTERS = [
     hanja: '館',
     korean: '저택',
     title: 'Os Anos na Mansão',
-    sub: 'Um sonho cuidadosamente construído sobre cadáveres.',
+    sub: 'Ilusão.',
     body: [
-      'A casa ficava cercada por florestas no norte do estado de Nova York, longe de olhos curiosos. Tutores, salões de treino, bibliotecas de grimórios trancados a sete chaves. Funcionários que o tratavam com uma reverência que o garoto interpretou, no início, como simples cortesia.',
-      'O Kumdo foi abandonado para seguir o estilo de luta do pai. A lâmina foi trocada por combate à mão livre. Em pouco tempo, Jintae se tornava o tipo de prodígio que o pai gostava de exibir em jantares com aliados.',
-      'Mas algumas coisas não fechavam. Cartas sem resposta. Funcionários que desapareciam. E o jeito como o pai olhava para certas mulheres, certos rivais, certos subordinados — um olhar que ele passou anos confundindo com autoridade, e que só muito mais tarde reconheceria como apetite.',
+      'A casa onde Jintae passou a viver ficava cercada por florestas no norte do estado de Nova York, longe de olhos curiosos. O pai apresentou tudo como um sonho que finalmente se concretizava: o filho perdido encontrado, a linhagem reunida. Havia tutores, salões de treino, bibliotecas de grimórios trancados a sete chaves, e funcionários que o tratavam com uma reverência que o garoto interpretou, no início, como simples cortesia.',
+      'O treinamento começou no dia seguinte à chegada. O pai dizia que Jintae carregava sangue divino, que sua técnica precisava ser moldada antes que se descontrolasse, e que ele já havia perdido tempo demais longe de seu legado. Os dias se tornaram um ciclo de exercícios marciais, estudo de feitiços, e conversas longas no escritório do pai sobre política, hierarquia entre feiticeiros, e o futuro que estava sendo construído para ele.',
+      'Jintae prosperou. Seu Kumdo foi abandonado para seguir o estilo de luta de seu pai. A lâmina foi trocada por combate à mão livre. Em pouco tempo, ele se tornava o tipo de prodígio que o pai gostava de exibir em jantares com aliados.',
+      'Mas algumas coisas não fechavam. As cartas que ele escrevia para a mãe nunca recebiam resposta. Quando ligava, a voz dela parecia distante, escolhida, como se houvesse alguém do outro lado supervisionando. Funcionários antigos da mansão desapareciam sem aviso, substituídos por outros que pareciam mais nervosos, mais cuidadosos com o que diziam. E havia o jeito como o pai olhava para certas mulheres, certos rivais, certos subordinados. Um olhar que Jintae passou anos confundindo com autoridade, e que só muito mais tarde reconheceria como apetite.',
     ],
   },
   {
@@ -61,11 +62,12 @@ const CHAPTERS = [
     hanja: '眞',
     korean: '진실',
     title: 'A Descoberta',
-    sub: 'A matriarca rival, no corredor, em coreano.',
+    sub: 'Sombra de dúvida.',
     body: [
-      '"Você se parece com sua mãe. Espero que tenha herdado a coragem dela, e não aquilo que ele fez com ela."',
-      'Jintae não dormiu naquela noite. Nem nas seguintes. Começou a procurar, sem despertar suspeitas. Arquivos antigos. Contas bancárias. Registros de viagens de mais de duas décadas atrás. Cruzou datas. Encontrou nomes de mulheres em listas que terminavam de formas que a polícia nunca investigaria a fundo.',
-      'Encontrou sua mãe entre elas, marcada apenas com a data e a cidade, sem qualquer outra anotação além de um símbolo que ele veria repetido em outros nomes — e que entenderia como um troféu.',
+      'A verdade veio de um lugar inesperado. Aos vinte anos, Jintae acompanhou o pai a uma reunião com outra família feiticeira. Houve desentendimentos, ameaças veladas, e na saída a matriarca da família rival cruzou seu caminho no corredor. Olhou para ele por longos segundos e disse, em coreano para que apenas ele entendesse: "Você se parece com sua mãe. Espero que tenha herdado a coragem dela, e não aquilo que ele fez com ela."',
+      'Jintae não dormiu naquela noite. Nem nas seguintes. Começou a procurar, discretamente, sem despertar suspeitas. Acessou arquivos antigos do pai, contas bancárias, registros de viagens de mais de duas décadas atrás. Cruzou datas. Encontrou nomes de mulheres em listas que terminavam de formas que a polícia nunca investigaria a fundo. Encontrou sua mãe entre elas, marcada apenas com a data e a cidade, sem qualquer outra anotação além de um símbolo que ele veria repetido em outros nomes, e que entenderia como um troféu.',
+      'Conseguiu, depois de meses, contatar a mãe por um canal que o pai não monitorava. A conversa durou três horas. Ela contou tudo. Cada parte dela quebrava ao falar, e cada parte de Jintae quebrava ao ouvir. Quando desligou, ele ficou parado no escuro do quarto por um tempo que não soube medir.',
+      'A obsessão nasceu naquela noite, e tinha um propósito muito claro.',
     ],
   },
   {
@@ -73,11 +75,11 @@ const CHAPTERS = [
     hanja: '備',
     korean: '준비',
     title: 'O Preparo',
-    sub: 'Dois anos. Uma vida dupla. Um único propósito.',
+    sub: 'Um único propósito.',
     body: [
-      'Em público, continuou sendo o filho-prodígio, o herdeiro perfeito. Em particular, treinava para matar o homem que lhe ensinara quase tudo o que sabia.',
-      'Procurou mestres que o pai havia ofendido no passado. Aprendeu técnicas que não constavam em nenhum dos grimórios da biblioteca da mansão. Estudou a própria técnica paterna até encontrar nela rachaduras que o pai não percebia, ou achava insignificantes demais para corrigir.',
-      'Sabia que não venceria. Conhecia as diferenças de poder, de experiência, de aliados. Mas precisava tentar. Porque sua mãe, do outro lado do mundo, merecia pelo menos a notícia de que alguém havia tentado.',
+      'Por dois anos, Jintae viveu uma vida dupla. Em público, continuou sendo o filho-prodígio, o herdeiro perfeito. Em particular, treinava para matar o homem que lhe ensinara quase tudo o que sabia.',
+      'Procurou mestres que o pai havia ofendido no passado. Aprendeu técnicas que não constavam em nenhum dos grimórios da biblioteca da mansão. Estudou a própria técnica paterna até encontrar nela rachaduras que o pai não percebia, ou achava insignificantes demais para corrigir. Reforçou o corpo, o espírito e a lâmina. Aperfeiçoou seus punhos até o ponto em que ele já não era apenas a arte que seu pai lhe ensinou, mas algo só dele.',
+      'Sabia que não venceria. Conhecia as diferenças de poder, de experiência, de aliados. Mas precisava tentar. Porque viver mais um dia naquela casa fingindo afeto por aquele homem estava se tornando impossível, e porque sua mãe, do outro lado do mundo, merecia pelo menos a notícia de que alguém havia tentado.',
     ],
   },
   {
@@ -85,11 +87,13 @@ const CHAPTERS = [
     hanja: '雨',
     korean: '대결',
     title: 'O Confronto',
-    sub: 'Em uma noite de chuva, no salão principal.',
+    sub: 'Em uma noite de chuva.',
     body: [
-      'Jintae chegou, sem disfarce nas intenções. O pai já o esperava. Não havia espanto no rosto dele, apenas algo parecido com decepção, e um traço de divertimento.',
-      'A luta foi curta para os padrões de feiticeiros do nível deles, e longa o bastante para destruir três cômodos. Acertou golpes que teriam matado oponentes menores. Tirou sangue. Forçou o pai a usar técnicas que ele costumava se gabar de nunca precisar.',
-      'Jintae caiu de joelhos no centro do salão, cego de sangue — sangue dos próprios olhos mutilados. O pai se aproximou caminhando devagar, recompondo a voz para o tom paterno que havia enganado o garoto por tantos anos. Disse, com a calma de quem decide o destino de um animal, que Jintae não merecia morrer. Que só iria esquecer e recomeçar novamente.',
+      'Aconteceu em uma noite de chuva, no salão principal da mansão. Jintae chegou, sem disfarce nas intenções. O pai já o esperava. Não havia espanto no rosto dele, apenas algo parecido com decepção, e um traço de divertimento.',
+      'A luta foi curta para os padrões de feiticeiros do nível deles, e longa o bastante para destruir três cômodos. Jintae lutou com tudo o que tinha aprendido em segredo, com tudo o que tinha aprendido com o próprio pai, com tudo o que sua raiva podia oferecer. Acertou golpes que teriam matado oponentes menores. Tirou sangue. Forçou o pai a usar técnicas que ele costumava se gabar de nunca precisar contra um adversário qualquer.',
+      'Mas no fim, a diferença entre os dois era exatamente o que ele já sabia que era.',
+      'Jintae caiu de joelhos no centro do salão, cego de sangue, sangue de seus próprios olhos mutilados. O pai se aproximou caminhando devagar, recompondo a voz para o tom de sempre, o tom paterno que havia enganado o garoto por tantos anos.',
+      'Não houve discurso longo. O pai disse, com a calma de quem decide o destino de um animal, que Jintae não merecia morrer. Que só iria esquecer e recomeçar novamente. E o que veio depois foi pior do que qualquer morte que ele pudesse ter imaginado.',
     ],
   },
   {
@@ -97,11 +101,11 @@ const CHAPTERS = [
     hanja: '消',
     korean: '소멸',
     title: 'O Apagamento',
-    sub: 'Não há nome bom para o que o pai fez.',
+    sub: 'Vazio.',
     body: [
-      'Não era simplesmente tirar memórias. Era arrancar a pessoa de dentro de si, deixando intacto apenas o esqueleto: o corpo, os reflexos, o talento, a vontade. Tudo o que dava sentido àquela vontade, no entanto, era despido fio por fio.',
-      'A dor não tinha analogia física possível. Foi tanta que o corpo de Jintae, em algum momento durante o processo, simplesmente se recusou a continuar enxergando.',
-      'A retina estava regenerada. Intacta. Mas algo dentro do nervo, dentro da alma, decidiu que não havia nada naquele mundo que valesse a pena ser visto outra vez. A cegueira chegou silenciosa, definitiva — sem que ninguém precisasse explicá-la.',
+      'Não existe nome bom para o que o pai fez. Era um objeto que poucos feiticeiros no mundo possuíam, e que ele próprio havia conseguido casualmente ao longo de anos de negociações políticas. Não era simplesmente tirar memórias. Era arrancar a pessoa de dentro de si, deixando intacto apenas o esqueleto: o corpo, os reflexos, o talento, a vontade. Tudo o que dava sentido àquela vontade, no entanto, era despido fio por fio.',
+      'A dor não tinha analogia física possível. Foi tanta que o corpo de Jintae, em algum momento durante o processo, simplesmente se recusou a continuar enxergando. A retina estava regenerada, intacta. Mas algo dentro do nervo, dentro da alma, decidiu que não havia nada naquele mundo que valesse a pena ser visto outra vez. A cegueira chegou silenciosa, definitiva, sem que ninguém precisasse explicá-la.',
+      'Quando terminou, o pai mandou que o levassem dali. Não para algum lugar específico. Apenas para longe. Talvez quisesse que ele morresse na rua. Talvez achasse que um filho transformado em casca vagando pelo mundo seria uma punição mais elegante do que um cadáver. Talvez nem pensasse mais nele.',
     ],
   },
   {
@@ -111,22 +115,13 @@ const CHAPTERS = [
     title: 'A Obsessão Sem Propósito',
     sub: 'Um segundo coração batendo no peito.',
     body: [
-      'Acordou em um vagão de trem cuja janela ele não podia ver, em um país cujo nome ele não tinha certeza, em um corpo que respondia a comandos que ele não lembrava ter aprendido. Não sabia o próprio nome até alguém perguntar e os lábios responderem por conta própria.',
+      'Jintae acordou em um vagão de trem cuja janela ele não podia ver, em um país cujo nome ele não tinha certeza, em um corpo que respondia a comandos que ele não lembrava ter aprendido. Não sabia o próprio nome até alguém perguntar e os lábios responderem por conta própria. Não sabia o por que.',
       'Mas sabia, de algum lugar tão profundo que não havia palavras para descrevê-lo, que precisava ficar mais forte. Que existia alguém no mundo que ele tinha que enfrentar. Que existia algo que precisava ser corrigido, algo que precisava ser cobrado, algo que precisava acabar.',
-      'Não lembrava quem. Não lembrava por quê. Apenas a obsessão, sem propósito conhecido, batendo no peito como um segundo coração.',
+      'Não lembrava quem. Não lembrava por quê.',
+      'Apenas a obsessão, sem propósito conhecido, batendo no peito como um segundo coração.',
+      'É assim, com os olhos vazios voltados para o nada, e uma fome que ele não consegue nomear, que Jintae Yang caminha agora pelo mundo. Procurando força. Procurando inimigos. Procurando algo que perdeu, e que talvez nunca mais consiga lembrar que existiu.',
     ],
   },
-];
-
-const PROFILE = [
-  { label: 'Idade', value: '23', sub: 'Aparente' },
-  { label: 'Origem', value: 'KOR / USA', sub: 'Coreana, paterno americano' },
-  { label: 'Estilo', value: 'Mão Livre', sub: 'Herdado, depois reescrito' },
-  { label: 'Origem Marcial', value: 'Kumdo', sub: 'Abandonado' },
-  { label: 'Regeneração', value: 'Extrema', sub: 'Restaura tecido nervoso' },
-  { label: 'Visão', value: 'Cego', sub: 'Por escolha da alma' },
-  { label: 'Linhagem', value: 'Divina', sub: 'Reivindicada pelo pai' },
-  { label: 'Memória', value: 'Apagada', sub: 'Fio por fio' },
 ];
 
 const VERTICAL_KR = '잊혀진 자 · 눈먼 검사 · 양진태';
@@ -138,7 +133,7 @@ export default function JintaeYang() {
 
   useEffect(() => {
     setMounted(true);
-    const sections = ['hero', 'epigraph', 'duality', 'profile', 'chronology', 'void'];
+    const sections = ['hero', 'chronology', 'void'];
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
@@ -287,9 +282,6 @@ export default function JintaeYang() {
       <nav className="hidden lg:flex fixed right-8 top-1/2 -translate-y-1/2 flex-col gap-5 z-40">
         {[
           { id: 'hero', label: '序' },
-          { id: 'epigraph', label: '言' },
-          { id: 'duality', label: '二' },
-          { id: 'profile', label: '体' },
           { id: 'chronology', label: '章' },
           { id: 'void', label: '空' },
         ].map((s) => (
@@ -332,7 +324,7 @@ export default function JintaeYang() {
             style={{ color: C.inkMuted, animationDelay: '0.1s' }}
           >
             <div style={{ color: C.inkFaded }}>Dossiê / 文書 № 0734</div>
-            <div className="mt-1">Classificação · Especial</div>
+            <div className="mt-1">Classificação · Segundo Grau</div>
           </div>
           <div
             className="font-mono fs-10 uppercase ls-3 text-right reveal-fast"
@@ -410,315 +402,11 @@ export default function JintaeYang() {
             </span>
           </div>
 
-          <div
-            className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl reveal"
-            style={{ animationDelay: '0.9s' }}
-          >
-            {[
-              { kr: '잊혀진 자', pt: 'O Esquecido', detail: 'A casca permanece. A pessoa, não.' },
-              { kr: '눈먼 검사', pt: 'O Espadachim Cego', detail: 'Trocou a lâmina pelo punho. Depois trocou os olhos pelo silêncio.' },
-              { kr: '아들', pt: 'O Filho', detail: 'De uma mulher que tentou esconder. De um homem que faz troféus.' },
-            ].map((item, i) => (
-              <div
-                key={i}
-                className="border-t pt-4"
-                style={{ borderColor: C.border }}
-              >
-                <div
-                  className="font-kr text-sm mb-2"
-                  style={{ color: C.inkMuted, letterSpacing: '0.15em' }}
-                >
-                  {item.kr}
-                </div>
-                <div
-                  className="font-display text-xl italic mb-3"
-                  style={{ color: C.ink, fontWeight: 400 }}
-                >
-                  {item.pt}
-                </div>
-                <div
-                  className="font-serif text-sm leading-relaxed"
-                  style={{ color: C.inkMuted }}
-                >
-                  {item.detail}
-                </div>
-              </div>
-            ))}
-          </div>
         </div>
 
-        <div
-          className="mt-20 pt-8 border-t flex flex-wrap items-end justify-between gap-6 reveal-slow"
-          style={{ borderColor: C.border, animationDelay: '1.2s' }}
-        >
-          <div className="flex flex-wrap gap-x-12 gap-y-3">
-            {[
-              { l: 'Sangue', v: 'Divino · materno mortal' },
-              { l: 'Domínio', v: 'Combate à mão livre' },
-              { l: 'Estado', v: 'Vagante' },
-            ].map((d, i) => (
-              <div key={i}>
-                <div
-                  className="font-mono fs-10 uppercase ls-3 mb-1"
-                  style={{ color: C.inkFaded }}
-                >
-                  {d.l}
-                </div>
-                <div
-                  className="font-serif text-base"
-                  style={{ color: C.inkSoft }}
-                >
-                  {d.v}
-                </div>
-              </div>
-            ))}
-          </div>
-          <div
-            className="font-display text-xs italic"
-            style={{ color: C.inkMuted }}
-          >
-            ↓ deslize para o registro completo
-          </div>
-        </div>
       </section>
 
-      {/* SECTION 02 — EPIGRAPH */}
-      <section
-        id="epigraph"
-        className="relative px-6 sm:px-12 lg:px-24 py-32 lg:py-48"
-        style={{ backgroundColor: C.bgWarm }}
-      >
-        <div className="max-w-5xl mx-auto relative">
-          <div
-            className="font-display absolute -top-12 -left-2 lg:-left-12 select-none pointer-events-none"
-            style={{
-              fontSize: 'clamp(8rem, 20vw, 16rem)',
-              color: C.blood,
-              opacity: 0.18,
-              fontWeight: 900,
-              lineHeight: 1,
-            }}
-          >
-            "
-          </div>
-
-          <div
-            className="font-mono fs-10 uppercase ls-4 mb-10"
-            style={{ color: C.blood }}
-          >
-            Capítulo IV · um corredor · uma matriarca rival · em coreano
-          </div>
-
-          <blockquote
-            className="font-display italic lh-display mb-10"
-            style={{
-              fontSize: 'clamp(1.75rem, 4.5vw, 3.5rem)',
-              fontWeight: 300,
-              color: C.ink,
-              letterSpacing: '-0.01em',
-            }}
-          >
-            Você se parece com sua mãe. Espero que tenha herdado{' '}
-            <span style={{ color: C.gold, fontStyle: 'normal', fontWeight: 400 }}>
-              a coragem dela
-            </span>
-            , e não{' '}
-            <span style={{ color: C.bloodFresh, fontStyle: 'normal', fontWeight: 400 }}>
-              aquilo
-            </span>{' '}
-            que ele fez com ela.
-          </blockquote>
-
-          <blockquote
-            className="font-kr leading-relaxed mb-12"
-            style={{
-              fontSize: 'clamp(1rem, 1.8vw, 1.4rem)',
-              color: C.inkMuted,
-              fontWeight: 300,
-              letterSpacing: '0.02em',
-            }}
-          >
-            너는 네 어머니를 닮았구나. 그녀의 용기를 물려받았기를 바란다 ─ 그가 그녀에게 한 짓이 아니라.
-          </blockquote>
-
-          <div className="flex items-center gap-4">
-            <div
-              className="h-px"
-              style={{ width: '48px', backgroundColor: C.border }}
-            />
-            <span
-              className="font-serif italic text-base"
-              style={{ color: C.inkMuted }}
-            >
-              o instante em que tudo se tornou impossível de desfazer
-            </span>
-          </div>
-
-          <div
-            className="absolute right-0 top-0 h-full w-px hidden md:block"
-            style={{
-              background: `linear-gradient(to bottom, transparent, ${C.bloodDark} 30%, ${C.bloodDark} 70%, transparent)`,
-              opacity: 0.4,
-            }}
-          />
-        </div>
-      </section>
-
-      {/* SECTION 03 — DUALITY */}
-      <section
-        id="duality"
-        className="relative px-6 sm:px-12 lg:px-24 py-24 lg:py-32"
-      >
-        <div className="max-w-7xl mx-auto">
-          <SectionHeader
-            num="二"
-            label="dualidade"
-            title="Antes e depois do salão"
-            sub="O mesmo corpo. Duas pessoas. Uma delas já morreu."
-          />
-
-          <div className="grid md:grid-cols-2 gap-8 lg:gap-16 mt-20">
-            <DualityCard
-              tag="Antes / 前"
-              tagColor={C.gold}
-              title="O Prodígio"
-              subtitle="filho-perfeito · herdeiro · exibido em jantares"
-              accent={C.gold}
-              traits={[
-                ['Disciplina', 'Kumdo desde a infância · espada da mãe'],
-                ['Postura', 'Reverente. Acreditava em sangue divino.'],
-                ['Olhar', 'Confiava no homem que olhava demais.'],
-                ['Coração', 'Preenchido por uma mentira muito bem feita.'],
-              ]}
-            />
-
-            <DualityCard
-              tag="Depois / 後"
-              tagColor={C.blood}
-              title="O Vazio"
-              subtitle="esqueleto · reflexo · vontade sem dono"
-              accent={C.blood}
-              traits={[
-                ['Disciplina', 'Punhos próprios · técnica que é só dele'],
-                ['Postura', 'Cego. Não procura mais o que ver.'],
-                ['Olhar', '— '],
-                ['Coração', 'Bate duas vezes: a primeira é a obsessão.'],
-              ]}
-            />
-          </div>
-
-          <div className="mt-20 flex items-center justify-center gap-6">
-            <div
-              className="h-px flex-1 max-w-xs"
-              style={{ backgroundColor: C.border }}
-            />
-            <span
-              className="font-kr text-xs ls-4"
-              style={{ color: C.inkFaded }}
-            >
-              그 사이에 한 번의 비
-            </span>
-            <div
-              className="h-px flex-1 max-w-xs"
-              style={{ backgroundColor: C.border }}
-            />
-          </div>
-          <div
-            className="text-center mt-2 font-display italic text-sm"
-            style={{ color: C.inkMuted }}
-          >
-            entre os dois, uma única noite de chuva
-          </div>
-        </div>
-      </section>
-
-      {/* SECTION 04 — COMBAT PROFILE */}
-      <section
-        id="profile"
-        className="relative px-6 sm:px-12 lg:px-24 py-24 lg:py-32"
-        style={{ backgroundColor: C.bgWarm }}
-      >
-        <div className="max-w-7xl mx-auto">
-          <SectionHeader
-            num="体"
-            label="perfil"
-            title="O que sobrou do corpo"
-            sub="Apenas o que se pode medir. O resto foi tirado."
-          />
-
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-px mt-20" style={{ backgroundColor: C.border }}>
-            {PROFILE.map((stat, i) => (
-              <div
-                key={i}
-                className="stat-card relative p-6 lg:p-8 cursor-default"
-                style={{ backgroundColor: C.bgWarm, minHeight: '160px' }}
-              >
-                <div
-                  className="font-mono fs-10 uppercase ls-3 mb-3"
-                  style={{ color: C.inkFaded }}
-                >
-                  {String(i + 1).padStart(2, '0')} · {stat.label}
-                </div>
-                <div
-                  className="font-display leading-none mb-3"
-                  style={{
-                    fontSize: 'clamp(1.5rem, 2.5vw, 2.25rem)',
-                    color: C.ink,
-                    fontWeight: 400,
-                  }}
-                >
-                  {stat.value}
-                </div>
-                <div
-                  className="font-serif italic text-sm leading-snug"
-                  style={{ color: C.inkMuted }}
-                >
-                  {stat.sub}
-                </div>
-                <span
-                  className="stat-mark absolute top-6 right-6 font-kr text-xs"
-                  style={{ color: C.inkGhost, transition: 'color 0.4s' }}
-                >
-                  ◇
-                </span>
-              </div>
-            ))}
-          </div>
-
-          <div className="mt-16 grid md:grid-cols-3 gap-12">
-            <div className="md:col-span-1">
-              <div
-                className="font-mono fs-10 uppercase ls-3 mb-3"
-                style={{ color: C.blood }}
-              >
-                Anomalia · 異
-              </div>
-              <h3
-                className="font-display text-2xl mb-4"
-                style={{ color: C.ink, fontWeight: 400 }}
-              >
-                Sobre a regeneração e a cegueira
-              </h3>
-            </div>
-            <div className="md:col-span-2">
-              <p
-                className="font-serif text-lg leading-relaxed mb-4"
-                style={{ color: C.inkSoft }}
-              >
-                A técnica de Jintae permitiria que ele continuasse enxergando — a regeneração era tamanha que os olhos já estavam restaurados. A retina estava intacta.
-              </p>
-              <p
-                className="font-serif text-lg leading-relaxed italic"
-                style={{ color: C.inkMuted }}
-              >
-                Mas algo dentro do nervo, dentro da alma, decidiu que não havia nada naquele mundo que valesse a pena ser visto outra vez. A cegueira foi escolha. Silenciosa. Definitiva. Sem que ninguém precisasse explicá-la.
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* SECTION 05 — CHRONOLOGY */}
+      {/* SECTION 02 — CHRONOLOGY */}
       <section
         id="chronology"
         className="relative px-6 sm:px-12 lg:px-24 py-24 lg:py-32"
@@ -844,8 +532,8 @@ export default function JintaeYang() {
                             className="font-serif leading-relaxed"
                             style={{
                               fontSize: 'clamp(1rem, 1.3vw, 1.15rem)',
-                              color: j === 0 && i === 3 ? C.gold : C.inkSoft,
-                              fontStyle: j === 0 && i === 3 ? 'italic' : 'normal',
+                              color: C.inkSoft,
+                              fontStyle: 'normal',
                               maxWidth: '62ch',
                             }}
                           >
@@ -869,7 +557,7 @@ export default function JintaeYang() {
         </div>
       </section>
 
-      {/* SECTION 06 — THE VOID */}
+      {/* SECTION 03 — THE VOID */}
       <section
         id="void"
         className="relative px-6 sm:px-12 lg:px-24 py-32 lg:py-56 overflow-hidden"
@@ -1043,81 +731,3 @@ function SectionHeader({ num, label, title, sub }: {
   );
 }
 
-function DualityCard({ tag, tagColor, title, subtitle, accent, traits }: {
-  tag: string;
-  tagColor: string;
-  title: string;
-  subtitle: string;
-  accent: string;
-  traits: [string, string][];
-}) {
-  return (
-    <div
-      className="relative p-8 lg:p-10 border"
-      style={{
-        borderColor: C.border,
-        backgroundColor: C.surface,
-      }}
-    >
-      <div
-        className="absolute top-0 left-0 h-px"
-        style={{ width: '40%', backgroundColor: accent }}
-      />
-
-      <div
-        className="font-mono fs-10 uppercase ls-4 mb-6"
-        style={{ color: tagColor }}
-      >
-        {tag}
-      </div>
-
-      <h3
-        className="font-display leading-none mb-3"
-        style={{
-          fontSize: 'clamp(2.25rem, 4vw, 3.25rem)',
-          color: C.ink,
-          fontWeight: 400,
-        }}
-      >
-        {title}
-      </h3>
-
-      <p
-        className="font-serif italic mb-10"
-        style={{
-          fontSize: '1.05rem',
-          color: C.inkMuted,
-          letterSpacing: '0.01em',
-        }}
-      >
-        {subtitle}
-      </p>
-
-      <dl className="space-y-5">
-        {traits.map(([k, v], i) => (
-          <div
-            key={i}
-            className="grid grid-cols-3 gap-4 pb-4 border-b"
-            style={{ borderColor: C.border }}
-          >
-            <dt
-              className="font-mono fs-10 uppercase ls-3 col-span-1 pt-1"
-              style={{ color: C.inkFaded }}
-            >
-              {k}
-            </dt>
-            <dd
-              className="font-serif col-span-2 leading-snug"
-              style={{
-                fontSize: '1rem',
-                color: C.inkSoft,
-              }}
-            >
-              {v}
-            </dd>
-          </div>
-        ))}
-      </dl>
-    </div>
-  );
-}
